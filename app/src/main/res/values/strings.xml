@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android87 Photos</string>
+    <string name="app_credits">App by Nischay Agarwal and Matthew Wang</string>
+    <string name="album_name_hint">Album name</string>
+    <string name="new_album_title">New Album</string>
+    <string name="create_btn">Create</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="rename_btn">Rename</string>
+    <string name="delete_btn">Delete</string>
+    <string name="rename_album_title">Rename Album</string>
+    <string name="delete_album_title">Delete Album</string>
+    <string name="delete_album_message">Delete \"%1$s\"?</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="remove_option">Remove</string>
+    <string name="move_to_option">Move to…</string>
+    <string name="photo_options_title">Photo Options</string>
+    <string name="move_to_album_title">Move to Album</string>
+    <string name="no_other_albums">No other albums</string>
+    <string name="tag_person">person</string>
+    <string name="tag_location">location</string>
+    <string name="tag_value_hint_person">e.g. Bob</string>
+    <string name="tag_value_hint_location">e.g. New York</string>
+    <string name="add_tag_title">Add Tag</string>
+    <string name="add_btn">Add</string>
+    <string name="error_empty_tag_value">Value cannot be empty</string>
+    <string name="error_tag_exists">Tag already exists</string>
+    <string name="delete_tag_title">Delete Tag</string>
+    <string name="no_tags_to_delete">No tags to delete</string>
+    <string name="no_tags_text">No tags</string>
+    <string name="photo_count_format">%1$d photo(s)</string>
+    <string name="view_photos">View Photos</string>
+    <string name="tag_1_label">Tag 1</string>
+    <string name="tag_2_label">Tag 2</string>
+    <string name="use_two_tags_label">Use two tags</string>
+    <string name="search_btn">Search</string>
+    <string name="result_count_format">%1$d result(s)</string>
+    <string name="tag_value_hint">Value (e.g. New York)</string>
+</resources>
